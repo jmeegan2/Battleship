@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/opt/homebrew/Cellar/qt/6.9.1/lib/QtWidgets.framework/Versions/A/Headers",
+                "/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers"
+            ],
+            "defines": [],
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "macos-clang-arm64",
+            "configurationProvider": "ms-vscode.cmake-tools",
+            "compileCommands": [
+                "${workspaceFolder}/gui/build/Qt_6_9_1_for_macOS-Debug/.qtc_clangd/compile_commands.json"
+            ]
+        }
+    ],
+    "version": 4
+}

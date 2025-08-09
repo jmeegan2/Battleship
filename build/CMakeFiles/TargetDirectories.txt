@@ -1,0 +1,10 @@
+/Users/jamesmeegan/Desktop/softwareDev/after_layoff/c++/Battleship/build/CMakeFiles/gui.dir
+/Users/jamesmeegan/Desktop/softwareDev/after_layoff/c++/Battleship/build/CMakeFiles/gui_qmlimportscan.dir
+/Users/jamesmeegan/Desktop/softwareDev/after_layoff/c++/Battleship/build/CMakeFiles/edit_cache.dir
+/Users/jamesmeegan/Desktop/softwareDev/after_layoff/c++/Battleship/build/CMakeFiles/rebuild_cache.dir
+/Users/jamesmeegan/Desktop/softwareDev/after_layoff/c++/Battleship/build/CMakeFiles/list_install_components.dir
+/Users/jamesmeegan/Desktop/softwareDev/after_layoff/c++/Battleship/build/CMakeFiles/install.dir
+/Users/jamesmeegan/Desktop/softwareDev/after_layoff/c++/Battleship/build/CMakeFiles/install/local.dir
+/Users/jamesmeegan/Desktop/softwareDev/after_layoff/c++/Battleship/build/CMakeFiles/install/strip.dir
+/Users/jamesmeegan/Desktop/softwareDev/after_layoff/c++/Battleship/build/CMakeFiles/gui_autogen_timestamp_deps.dir
+/Users/jamesmeegan/Desktop/softwareDev/after_layoff/c++/Battleship/build/CMakeFiles/gui_autogen.dir

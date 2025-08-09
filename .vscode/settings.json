@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "iostream": "cpp"
+    },
+    "cmake.sourceDirectory": "/Users/jamesmeegan/Desktop/softwareDev/after_layoff/c++/Battleship/gui",
+    "cmakeIntelliSence.cmakePath": "export PATH=\"/Users/jamesmeegan/Qt/Tools/CMake/CMake.app/Contents/bin:$PATH\"",
+    "C_Cpp.default.compilerPath": "/usr/bin/clang++"
+}
