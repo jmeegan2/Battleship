@@ -1,9 +1,0 @@
--rootPath
-/Users/jamesmeegan/Desktop/softwareDev/after_layoff/c++/Battleship/gui
--cmake-output
--output-file
-/Users/jamesmeegan/Desktop/softwareDev/after_layoff/c++/Battleship/gui/build/Qt_6_9_1_for_macOS-Debug/.qt/qml_imports/gui_conf.cmake
--importPath
-/Users/jamesmeegan/Desktop/softwareDev/after_layoff/c++/Battleship/gui/build/Qt_6_9_1_for_macOS-Debug
--importPath
-/Users/jamesmeegan/Qt/6.9.1/macos/qml

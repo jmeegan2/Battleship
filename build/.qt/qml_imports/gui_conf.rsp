@@ -1,9 +1,0 @@
--rootPath
-/Users/jamesmeegan/Desktop/softwareDev/after_layoff/c++/Battleship/gui
--cmake-output
--output-file
-/Users/jamesmeegan/Desktop/softwareDev/after_layoff/c++/Battleship/build/.qt/qml_imports/gui_conf.cmake
--importPath
-/Users/jamesmeegan/Desktop/softwareDev/after_layoff/c++/Battleship/build
--importPath
-/opt/homebrew/share/qt/qml
